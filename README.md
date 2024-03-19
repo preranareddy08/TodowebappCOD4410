@@ -20,7 +20,7 @@ HTML Code:
 
 Structure: The HTML defines the basic structure of the todo list application with clear sections for the header, input field, todo list, and buttons. This structure makes it easy to understand and navigate the different parts of the application.
 
-Semantic Elements: Semantic HTML elements like <h1>, <input>, <button>, and <ul> are used appropriately to represent headings, input fields, buttons, and lists. This enhances accessibility and SEO optimization.
+Semantic Elements: Semantic HTML elements are used appropriately to represent headings, input fields, buttons, and lists. This enhances accessibility and SEO optimization.
 
 CSS Code:
 Custom Styling: The CSS code provides custom styling to the various components of the todo list application. For example, it defines background colors, fonts, borders, and padding to create an aesthetically pleasing design.
